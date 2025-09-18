@@ -9,7 +9,7 @@ A React.js Single Page Application (SPA) for managing trips with CRUD operations
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/<your-username>/React-Trip-Management-SEP-2025.git
+    git clone https://github.com/Rajugit07/Raju-Pradhani-React-Trip-Management-SEP-2025.git
     cd React-Trip-Management-SEP-2025
 
     ```
