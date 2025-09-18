@@ -47,7 +47,7 @@ A React.js Single Page Application (SPA) for managing trips with CRUD operations
         - /edit/:id -> Edit trip form
 
 ## Screenshots of UI
-
+<img src="./assets/1.png" width="500" />
 
 
 ## Tech Stack
